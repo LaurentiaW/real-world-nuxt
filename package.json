@@ -1,7 +1,7 @@
 {
   "name": "real-world-nuxt",
   "version": "1.0.0",
-  "description": "My first-rate Nuxt.js project",
+  "description": "An event listing app",
   "author": "LaurentiaW",
   "private": true,
   "scripts": {
