@@ -1,6 +1,6 @@
 # real-world-nuxt
 
-> My first-rate Nuxt.js project
+> An event listing app
 
 ## Build Setup
 
