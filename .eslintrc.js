@@ -19,5 +19,13 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    'prettier/prettier': [
+      'error',
+      {
+        htmlWhitespaceSensitivity: 'ignore',
+        semi: false,
+        singleQuote: true
+      }
+    ]
   }
 }
